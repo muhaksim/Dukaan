@@ -17,7 +17,7 @@ class DukaanApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'DukaanApp ',
+      title: 'DukaanApp45678 ',
       debugShowCheckedModeBanner: false,
       initialRoute: LoginScreen.id,
       theme: ThemeData(
